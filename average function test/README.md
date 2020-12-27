@@ -1,2 +1,3 @@
-# HackerRank certification tests
- certification tests taken on hackerank
+# Average Function
+## certification tests taken on hackerank
+
