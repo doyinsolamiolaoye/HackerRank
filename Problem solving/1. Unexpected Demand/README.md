@@ -4,9 +4,9 @@ A widget manufacturer is facing unexpectedly high demand for its new product,. T
 
 ## Function Description
 
-Complete the function filledOrders in the editor below. The function must return a single integer denoting the maximum possible number of fulfilled orders.
+Complete the function `filledOrders` in the editor below. The function must return a single integer denoting the maximum possible number of fulfilled orders.
 
-filledOrders has the following parameter(s):
+`filledOrders` has the following parameter(s):
 
     order :  an array of integers listing the orders
 
