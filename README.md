@@ -15,9 +15,9 @@ Click to view
 
 # Tests
 ## Python:
-1. [Average Function]()
-2. [Multiset Implementation]()
+1. [Average Function](https://github.com/doyinsolamiolaoye/HackerRank-certification/tree/main/Python%20(basic)/1.%20Average%20function)
+2. [Multiset Implementation](https://github.com/doyinsolamiolaoye/HackerRank-certification/tree/main/Python%20(basic)/2.%20Multiset%20Implementation)
 
 ## Problem Solving:
-1. [Unexpected Demand]()
-2. [Road Repair]()
+1. [Unexpected Demand](https://github.com/doyinsolamiolaoye/HackerRank-certification/tree/main/Problem%20solving/1.%20Unexpected%20Demand)
+2. [Road Repair](https://github.com/doyinsolamiolaoye/HackerRank-certification/tree/main/Problem%20solving/2.%20Road%20Repair)
