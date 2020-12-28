@@ -26,4 +26,4 @@ Click to view
 A compilation of solutions to Hackerrank's 30 days of code in Python 3.
 Easy and simple solutions.
 
-Enjoy!
+[Enjoy!](https://github.com/doyinsolamiolaoye/HackerRank/tree/main/30%20days%20of%20code)
