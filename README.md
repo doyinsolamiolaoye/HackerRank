@@ -23,3 +23,7 @@ Click to view
 2. [Road Repair](https://github.com/doyinsolamiolaoye/HackerRank-certification/tree/main/Problem%20solving/2.%20Road%20Repair)
 
 # 30 Days of Code
+A compilation of solutions to Hackerrank's 30 days of code in Python 3.
+Easy and simple solutions.
+
+Enjoy!
