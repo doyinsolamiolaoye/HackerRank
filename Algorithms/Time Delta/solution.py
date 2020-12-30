@@ -4,7 +4,7 @@ def time_delta(t1, t2):
     fmt = '%a %d %b %Y %H:%M:%S %z' #format of the input value
     t1 = datetime.strptime(t1, fmt) #use the strptime method in the datetime module to convert the innput string to date time format
     t2 = datetime.strptime(t2, fmt) 
-    diff = (t2-t1).total_seconds()  
+    diff = (t2-t1).total_seconds()  #.total_seconds() method is used to  
     return str(abs(int(diff)))
 
 t = int(input()) # t holds the number of testcases
