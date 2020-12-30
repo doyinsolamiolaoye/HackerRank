@@ -28,4 +28,5 @@ Easy and simple solutions.
 
 [Enjoy!](https://github.com/doyinsolamiolaoye/HackerRank/tree/main/30%20days%20of%20code)
 
-# Pythonic Algorithms
+# Algorithms
+[Enjoy!](https://github.com/doyinsolamiolaoye/HackerRank/tree/main/Algorithms)
