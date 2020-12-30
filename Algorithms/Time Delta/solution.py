@@ -1,10 +1,19 @@
-a = set(input().split()) #converts the input value from a list to a set; note that .split() converts it to a list
+from datetime import datetime as datetime
 
-counter, n = 0 , int(input())
+def time_delta(t1, t2):
+    fmt = '%a %d %b %Y %H:%M:%S %z' #format of the input value
+    t1 = datetime.strptime(t1, fmt) #use the strptime method in the datetime module to convert the innput string to date time format
+    t2 = datetime.strptime(t2, fmt) 
+    diff = (t2-t1).total_seconds()  
+    return str(abs(int(diff)))
 
-for i in range(n):
-    b = set(input().split()) #converts the input from list to set
-    if a.issuperset(b): #to check if a set is a subset of another set
-        counter += 1
-    
-print(counter == n) #checks if the numbber of input sets is the same as those who pass the superset test
+t = int(input()) # t holds the number of testcases
+
+for t_itr in range(t): # carry out the body of this code for each test case
+    t1 = input()
+
+    t2 = input() # accepts the two time stamps, t1 and t2
+
+    delta = time_delta(t1, t2) #applies the time_delta function on both time stamps
+
+    print(delta + '\n')
