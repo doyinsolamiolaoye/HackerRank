@@ -1,4 +1,4 @@
-# String Validators
+# Check Strict Superset
 
 ## Problem Statement
 You are given a string `S` .
