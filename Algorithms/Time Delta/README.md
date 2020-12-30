@@ -9,16 +9,16 @@ Since sometimes posts are published and viewed in different time zones, this can
 
 Here `+xxxx` represents the time zone. Your task is to print the absolute difference (in seconds) between them.
 
-**Input Format**
+## Input Format
 
 The first line contains , the number of testcases.
 Each testcase contains  lines, representing time  and time .
 
-**Output Format**
+## Output Format
 
 Print the absolute difference  in seconds.
 
-**Sample Input**:
+## Sample Input
 
 2
 Sun 10 May 2015 13:54:36 -0700
@@ -26,8 +26,7 @@ Sun 10 May 2015 13:54:36 -0000
 Sat 02 May 2015 19:54:36 +0530
 Fri 01 May 2015 13:54:36 -0000
 
-**Sample Output**:
-
+## Sample Output
 25200
 
 88200
