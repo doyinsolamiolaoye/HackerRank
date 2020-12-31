@@ -4,13 +4,7 @@
 
 ## Function Description
 
-Complete the function `filledOrders` in the editor below. The function must return a single integer denoting the maximum possible number of fulfilled orders.
 
-`filledOrders` has the following parameter(s):
-
-    order :  an array of integers listing the orders
-
-    k : an integer denoting widgets available for shipment
 
 ## Constraints
 
