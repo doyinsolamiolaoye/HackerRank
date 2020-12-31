@@ -14,5 +14,3 @@
 
 
 ## Sample Output
-
-2
